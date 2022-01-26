@@ -1,0 +1,22 @@
+[Clase] Para miembro de canal sobre Bot de Whatsapp
+
+https://www.youtube.com/watch?v=iCSVcEq17rA
+https://github.com/leifermendez/bot-ventas
+
+Cómo crear CHATBOT de Whatsapp Gratis con Inteligencia Artificial y Node
+https://www.youtube.com/watch?v=5lEMCeWEJ8o
+https://github.com/leifermendez/bot-whatsapp/tree/f0a9c41dc5abcf8718fc763f435b36e7f62f08cf
+https://github.com/leifermendez/bot-whatsapp
+
+
+BOT WhatsApp en NODE Gratis // Bot para whatsapp// NODE JS 😎
+https://www.youtube.com/watch?v=A_Xu0OR_HkE
+
+
+
+
+
+*********** DOCUMENTAÇÃO
+https://www.dio.me/articles/criar-um-bot-whatsapp-com-nodejs
+https://github.com/billbarsch?tab=repositories
+https://github.com/Crock-Linux

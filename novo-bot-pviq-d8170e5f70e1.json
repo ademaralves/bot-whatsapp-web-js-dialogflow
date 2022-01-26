@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "novo-bot-pviq",
+  "private_key_id": "d8170e5f70e1ca9dc468192eeee1cfb36addc7e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQD4qOSy2zVhC//T\n79cDSqHascPh57W9n8wYN2504YlshYIpxmLpB5+cvx/irWBqFeszuQjFDyzp3i2k\nBI88Ynlz/7MvMTHrY9wC9uzGXSPey+QkIzaGuVrgDjYphSn3qxAY1eDvXiEUtj6U\npCsySXAgpEtzxYC0TcXOa5yDReLjA+VJ2/SndK56kYiarYx8Dd/QmlRIO+AYs97R\neWa9tYoI7iMrflR/L2KnVC1ttRa599QkyoC6JZ4WGLDE72lykmxTXang8slom2/p\n0zzL+ZiP1X7eWl2RbwWc8nTHaEm0tlVeW0xOFrXzyNmKIbOuTz/kS5wW0rajanp6\nX1oIslbNAgMBAAECggEAGGUNZsSdtIMmWob9m5uPTHLDKl7+k/dg4QFTK1FTF5vz\nfKCzZHQ0gv63JJhozI+Q7xaYlyiZeeorpRszaDOrAafUzuzvHk5CL+JEsWNC2SE8\npRT1TPtTQIb0ZldjmiIkpqMY+bLM4QjOE+wVNs5Am1sy8c0vBsFYhhtFlBVfoHC4\nZRk7k1nxJYBp/rZRIbLU1zh454JrwLDbvX8I1SUEAJF4x7s+OBk5JhbpE8rF2uWf\nsJjE6lCSWtrlNRJE0eeOuZSwVRGYTUxbDSExSDYxvl7hH7besvJtL0XSLHicO8TF\nYVYMNt9DftEa21thUcea1emH6rESnAzrNccxoL9CGwKBgQD8mqVI5HJhv8YYJZBG\n+sWza5uKSisWe58TvDu/DcmMo0vJtnTybq7NrqfHPqOsSgB9CIkD0htUdMOwEaxq\nd8gp5MvNhhrIldlW24tMXuYoWCFZj81ThpNsjKmMiIspChq73K49siZVP5SFbsmu\nQQ67u4r+IWhfR/+kJKL6kDiWjwKBgQD8AKxIKFJAVD61RnT5N03s4pqQ5XdI3NKu\nSBNWQWCgV7MO+O2DdPYmbav5dPjIjoayLoiAB1YhmQAcjZ29+Oxv0TLXmz/zAt7A\ndvf9v53NZ8wORO99KLwtboe4RmXPNO4X62lY3rtjJkEzxwDL02yRjodT82zMQNvO\nXSAoIMjK4wKBgGrNA8ce95GGoL3C3A52prImdBvzIeaem/KfKm+r56Rzwm5lm2qJ\nC5VhHATs4gzNOQmkWzHnWrDJsZc20bwuKs4zs0uRQK/AU6Uaq/m9Qfia0nboivqe\nsqQ5kNIfRR8z63u0YWMqeHSgri4AWns3fIA5Whn6jAOFEHwZFWN1KMfXAoGAHqle\nTPFLALS/ZIMMHH6UJqxzrgmdd+oWYEo4wBf4T8ob6Uh0bbg/cvGJKTMISi69SNTM\nmvdJjZD2KIM6nDC7Y+eKTh1/rGu++p//EIrOAn4Mn/fXQ90++DAop005efqwtYxZ\nJw0Cs8+lw00FVceFwDgdUyOdK0UA+ZzvGrLSe40CgYBWN5DFTRTD5PwIOQDJDfE6\nW3hBreSTgUPNlRUZog0iPSrG25RhFPpWvoZkDJFuHUQnko6kasVB17VAHxvD3Ong\nlZhYRmxL6Gsc1pFeas9EP0iM2HWFgvDpcycIdu9uJwiJQuAR7u279q6o8BUXjYX2\nS50snT6O/G11Kn7hswC42g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "botnovoapp@novo-bot-pviq.iam.gserviceaccount.com",
+  "client_id": "113754748825750519023",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botnovoapp%40novo-bot-pviq.iam.gserviceaccount.com"
+}
